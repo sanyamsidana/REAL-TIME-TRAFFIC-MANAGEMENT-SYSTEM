@@ -1,4 +1,5 @@
-#REAL TIME TRAFFIC CONTROL SYSTEM 
+REAL TIME TRAFFIC CONTROL SYSTEM 
+
 Due to the emerging problem of traffic congestion nowadays,there are many problems
 from which the human race is suffering and is affected too. In order to bring some control
 over these situations we came forward with the idea of traffic control using image
