@@ -1,4 +1,4 @@
-REAL TIME TRAFFIC CONTROL SYSTEM 
+REAL TIME TRAFFIC MANAGEMENT SYSTEM 
 
 Due to the emerging problem of traffic congestion nowadays,there are many problems
 from which the human race is suffering and is affected too. In order to bring some control
