@@ -6,7 +6,7 @@
 
 import numpy as np
 import datetime
-
+import pandas as pd
 dtypes = [('density', int), ('car', int)]
 ## values to be put in array
 values = [(4153157,6), (17439146,15), (34800863,22), (50018314,27),(65703794,35)]
